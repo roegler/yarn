@@ -1,0 +1,10 @@
+{
+  "name": "my-yarn-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marie Røgler",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
